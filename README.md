@@ -64,3 +64,6 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 </p>
 
 </p>
+
+#tqto
+- [`DikaaOfc`](6288223674569)
