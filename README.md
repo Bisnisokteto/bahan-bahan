@@ -1,6 +1,6 @@
 # ***tutorial bikin bot whatsaAp***
 
-# Harap di baca karena penting!
+# **Harap di baca karena penting!**
 
 ### Pengertian Bot
 Robot WhatsApp (Multi Device) yang dapat membantu kamu untuk mempermudah melakukan sesuatu, seperti mencari dan mendapatkan data/infomasi hanya melalui WhatsApp
@@ -57,3 +57,11 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 > Di atas hanya alat dan bahan saja, tutorial? chat owner.
 
 # Connect with me
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/62895369318181"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/J4ii7zkiySP9s6xdlZDggp"><img src="https://img.shields.io/badge/Official Group- Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/Subscribe-[YT]-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/GAMINGDUDES_GD" /><br>
+</p>
+
+</p>
