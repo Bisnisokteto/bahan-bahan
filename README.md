@@ -53,4 +53,7 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 > Ada yang mau di tanyakan tentang bot? chat owner
 
 > Info lanjut harap hubungi owner.
-- Di atas hanya alat dan bahan saja, tutorial? chat owner.
+
+> Di atas hanya alat dan bahan saja, tutorial? chat owner.
+
+# Connect with me
