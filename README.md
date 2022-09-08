@@ -25,3 +25,24 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - [`Qedit`](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
 - [`Termux ori`](https://play.google.com/store/apps/details?id=com.termux)
 - [`ZArchiver`](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
+
+## Install for termux
+
+```bash
+> termux-setup-storage
+> pkg update && pkg upgrade
+> pkg install git
+> pkg install nodejs
+> pkg install bash
+> pkg install ffmpeg
+> pkg install libwebp
+> cd /sdcard
+> cd nama file
+> npm i
+> npm start
+
+## Ini untuk yang sudah menginstal commad termux sebelumnya
+> cd /sdcard
+> cd nama file
+> npm start
+```
