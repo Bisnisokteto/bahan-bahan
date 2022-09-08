@@ -12,3 +12,10 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 -   [x] Script bot nya
 -   [x] Qedit/Mt manager
 -   [x] 2 hp
+-   [x] Termux [mod]
+
+### Cara scan QR
+- Masuk whatsaAp
+- Ketik titik tiga di kanan atas
+- Klik perangkat tertaut
+- Scan
