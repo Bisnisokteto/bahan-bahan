@@ -11,6 +11,7 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 -   [x] Niat
 -   [x] Script bot nya
 -   [x] Qedit/Mt manager
+-   [x] ZArchiver
 -   [x] 2 hp
 -   [x] Termux [mod]
 
@@ -25,3 +26,5 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - [`click here`](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
 > Download apk Termux ori disini
 - [`click here`](https://play.google.com/store/apps/details?id=com.termux)
+> Download apk ZArchiver disini
+- [click here`](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
