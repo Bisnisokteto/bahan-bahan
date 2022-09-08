@@ -8,4 +8,7 @@ Persyaratan dalam menggunakan bot sudah jelas pasti ada, untuk menghindari spam 
 Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sudah di tetapkan.
 
 ### alat dan bahan untuk membuat bot whatsaAp
--   [x] u
+-   [x] Niat
+-   [x] script bot nya
+-   [x] Qedit / mt manager
+-   [x] 2 hp
