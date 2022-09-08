@@ -56,7 +56,6 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 
 > Di atas hanya alat dan bahan saja, tutorial? chat owner.
 
-# Connect with me
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/62895369318181"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
