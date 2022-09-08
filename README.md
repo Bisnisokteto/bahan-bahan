@@ -9,6 +9,6 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 
 ### alat dan bahan untuk membuat bot whatsaAp
 -   [x] Niat
--   [x] script bot nya
--   [x] Qedit / mt manager
+-   [x] Script bot nya
+-   [x] Qedit/Mt manager
 -   [x] 2 hp
