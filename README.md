@@ -69,4 +69,4 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 ### ```tqto```
 - [`Allah SWT`](62688293754)
 - [`DikaaOfc`](6288223674569)
-- [`NainnOfc`](6283874607277
+- [`NainnOfc`](6283874607277)
