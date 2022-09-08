@@ -1,4 +1,4 @@
-# ***tutorial bikin bot whatsaAp***
+# ```tutorial bikin bot whatsaAp```
 
 # **Harap di baca karena penting!**
 
@@ -68,3 +68,4 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 
 ### ```tqto```
 - [`DikaaOfc`](6288223674569)
+- [`NainnOfc`]
