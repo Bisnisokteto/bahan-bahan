@@ -1,5 +1,7 @@
 ### tutorial bikin bot whatsaAp
 
+# Harap di baca karena penting!
+
 ### Pengertian Bot
 Robot WhatsApp (Multi Device) yang dapat membantu kamu untuk mempermudah melakukan sesuatu, seperti mencari dan mendapatkan data/infomasi hanya melalui WhatsApp
 
