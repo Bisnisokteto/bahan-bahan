@@ -21,4 +21,4 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Scan
 
 ### alat
-Download apk Qedit disini [`click here`](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
+> Download apk Qedit disini [`click here`](https://play.google.com/store/apps/details?id=com.rhmsoft.edit)
